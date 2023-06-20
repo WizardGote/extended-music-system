@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://raw.githubusercontent.com/WizardGote/extended-music-system/main/musicpower.png" alt="Pic" />
+</p>
+
 Instructions:
 This was ported from Combine Control with some tweaks to work better with Helix
 With this plugin you can add ambient music that will play random songs while playing on your schema
