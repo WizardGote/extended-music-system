@@ -17,7 +17,7 @@ MUSIC_NOPLAY - Will never play unless forced; This can be useful if you want to 
 MUSIC_MENU - Will only play if the player is in the main menu(character selection);
 *By default Helix does not allow multiple songs in the characters menu but now you can add as many as you like and the music will even continue playing on a loop.
 *The characters menu music will only play if you set your music to blank in your config.
-*The characters menu music will not reset after you exit the characters menu because I'm not sure how to do it effeicintly without bugging the whole script; Pick short stuff if you want or music you don't mind to continue playing during gameplay.
+*The characters menu music will not reset after you exit the characters menu because I'm not sure how to do it efficiently without bugging the whole script; Pick short stuff if you want or music you don't mind to continue playing during gameplay.
 
 MUSIC_AMBIENT - Will play ambient music as long as the player is alive and not in the main menu(character selection).
 
