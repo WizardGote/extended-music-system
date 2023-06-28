@@ -12,7 +12,7 @@ end
 
 vgui.Register("ixMusicPlayerPanel", PANEL, "DScrollPanel")
 
-hook.Add("CreateMenuButtons", "ixCharInfo", function(tabs)
+hook.Add("CreateMenuButtons", "ixMusPanel", function(tabs)
 	if (CAMI.PlayerHasAccess(LocalPlayer(), "Helix - Music Player", nil)) then
 		tabs["Music Player"] = {
 			Create = function(info, container)
